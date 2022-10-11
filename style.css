@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(200, 208, 211);
+}
+.container1{
+    height:85px;
+    width: 300px;
+    border: 6px solid tomato;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin: top 10px; 
+    padding: 20px;
+    color: brown;
+    text-shadow: 3px 3px 4px red;
+    font-size: 20px;
+  font-style: italic;
+  box-shadow: 8px 8px 2px rgb(184, 72, 184) ;
+}
+.container2{
+    height: 615px;
+    width: 90%;
+    border: 10px solid green;
+    margin: auto;
+    margin-top: 25px;
+   justify-content: space-evenly;
+   
+}
+.item1{
+height:220px ;
+width: 220px;
+border: 4px solid tomato;
+border-radius: 5px;
+float: right ;
+margin-top: 15px;
+margin-right: 25px;
+border-radius: 10px;
+box-shadow: 8px 8px 2px rgb(184, 72, 184) ;
+}
+.item2{
+    height:220px ;
+    width: 220px;
+    border: 4px solid tomato;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 15px;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+color: purple;
+text-shadow: 4px 4px 4px purple;
+font-size: 28px;
+border-radius: 10px;
+box-shadow: 8px 8px 2px rgb(184, 72, 184) ;
+    }
+
+.item3{
+    height:220px ;
+     width: 220px;
+     border: 4px solid tomato;
+     border-radius: 5px;
+     float: right ;
+     margin-top: 125px;
+     border-radius: 10px;
+box-shadow: 8px 8px 2px rgb(184, 72, 184) ;
+margin-right: 25px;
+     }
+     .item4{
+    height:220px ;
+    width: 220px;
+    border: 4px solid tomato;
+    border-radius: 5px;
+    margin-top: 125px;
+    margin-left: 15px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 2px rgb(184, 72, 184) ;
+    text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+color: purple;
+text-shadow: 4px 4px 4px purple;
+font-size: 25px;
+
+
+   }
+h2{
+    font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+color: purple;
+font-size: 25px;
+text-shadow: 4px 4px 4px purple;
+
+}
+form{
+    text-align: center;
+    color: purple;
+font-size: 13px;
+text-shadow: 1px 1px 1px purple;
+}
+.container3{
+width: 55vw;
+height: 700px;
+border: 8px solid purple ;
+margin: auto;
+margin-top: 36px;
+background-color: chartreuse;
+color: black;
+text-align: center;
+padding: 20px;
+justify-content: space-evenly;
+}
+.item5{
+width: 26vw;
+height: 300px;
+background-color: rgb(179, 144, 58);
+float: right;
+
+}
+.item6{
+    width: 26vw;
+height: 300px;
+background-color: rgb(179, 144, 58);
+}
+.para{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+}
+.para2{
+    text-align: center;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 700;
+}
+.item7{
+    width: 58vw;
+    height: 300px;
+    background-color: rgb(179, 144, 58);
+
+
+}
+.sticky{
+width: 35vw;
+height: 70px;
+border: 4px solid red;
+border-radius: 10px;
+box-shadow: 8px 8px 2px rgb(184, 72, 184) ;
+background-color: rgb(203, 213, 56);
+margin: auto;
+position: fixed;
+bottom: 20px;
+left: 375px;
+
+}
+.para3{
+color: red;
+font-style: italic;
+font-weight: 200;
+font-size: 24px;
+margin-left: 20px;
+}
+.para4{
+    color: red;
+font-style: italic;
+font-weight: 200;
+font-size: 24px;
+margin-left: 67px;
+}
+.para5{
+    color: red;
+font-style: italic;
+font-weight: 200;
+font-size: 20px;
+float: right;
+position: relative;
+bottom: 34px;
+}
+.para6{
+    box-flex-group: red;
+}
